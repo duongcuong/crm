@@ -1,0 +1,90 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "idcard"
+                },
+                {
+                    "name": "numbercard"
+                }
+            ],
+            [
+                {
+                    "name": "hangthi"
+                },
+                {
+                    "name": "ngaybatdau"
+                },
+                {
+                    "name": "ngayhoanthanh"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "base"
+                },
+                {
+                    "name": "sahinh"
+                },
+                {
+                    "name": "duongtruong"
+                },
+                {
+                    "name": "xechip"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Thực hành"
+    },
+    {
+        "rows": [
+            [
+                {
+                    "name": "hour"
+                },
+                {
+                    "name": "km"
+                }
+            ],
+            [
+                {
+                    "name": "trangthai"
+                }
+            ],
+            [
+                {
+                    "name": "description"
+                }
+            ],
+            [
+                {
+                    "name": "tonghocphi"
+                },
+                {
+                    "name": "hocphidanap"
+                }
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "tabBreak": false,
+        "tabLabel": null,
+        "hidden": false,
+        "noteText": null,
+        "noteStyle": "info",
+        "customLabel": "Phiên học"
+    }
+]

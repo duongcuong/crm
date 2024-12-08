@@ -1,0 +1,7 @@
+[2024-11-17 09:50:55] CRITICAL: (500) Before-save formula script failed. Unknown function: string :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 09:55:16] CRITICAL: (500) Before-save formula script failed. Unknown function: string :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 10:05:16] CRITICAL: (500) Before-save formula script failed. Unknown function: string :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 10:09:11] CRITICAL: (500) Before-save formula script failed. Unknown function: log :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 10:11:01] CRITICAL: (500) Before-save formula script failed. Unknown function: log :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 10:12:40] CRITICAL: (500) Before-save formula script failed. Unknown function: log :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-17 10:14:03] CRITICAL: (500) Before-save formula script failed. Unknown function: throwError :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)

@@ -1,0 +1,4 @@
+[2024-11-16 07:39:59] WARNING: E_WARNING: mkdir(): File exists
+[2024-11-16 07:42:20] CRITICAL: (42S22) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user.c_giaovienhuongdan_id' in 'field list' :: GET /Notification/action/notReadCount :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/ORM/Executor/DefaultSqlExecutor.php(77)
+[2024-11-16 14:19:49] WARNING: (400) Field validation failure; entityType: CFeePayment, field: name, type: required. :: POST /CFeePayment
+[2024-11-16 14:20:04] WARNING: (400) Field validation failure; entityType: CFeePayment, field: name, type: required. :: POST /CFeePayment

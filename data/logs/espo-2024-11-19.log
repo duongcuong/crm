@@ -1,0 +1,21 @@
+[2024-11-19 01:17:37] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:21:32] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:25:57] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:28:12] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:30:22] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:31:57] WARNING: E_WARNING: mkdir(): File exists
+[2024-11-19 01:32:07] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:32:19] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 01:32:58] CRITICAL: (500) Before-save formula script failed.  :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Functions/EntityGroup/SumRelatedType.php(82)
+[2024-11-19 15:49:48] WARNING: E_WARNING: mkdir(): File exists
+[2024-11-19 16:11:50] CRITICAL: (500) Before-save formula script failed. Unknown function: throwError :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/FunctionFactory.php(88)
+[2024-11-19 16:14:21] ERROR: hhihihi
+[2024-11-19 16:15:12] CRITICAL: (500) Before-save formula script failed. Function log\error; Bad argument type on position 1, must be string. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Processor.php(185)
+[2024-11-19 16:20:59] CRITICAL: (500) Before-save formula script failed. Function log\error; Bad argument type on position 1, must be string. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Processor.php(185)
+[2024-11-19 16:21:31] ERROR: hihihi
+[2024-11-19 16:22:07] ERROR: hihihi
+[2024-11-19 16:22:07] ERROR: hahaha
+[2024-11-19 16:22:53] CRITICAL: (500) Before-save formula script failed. String is not closed. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Exceptions/SyntaxError.php(48)
+[2024-11-19 16:23:59] CRITICAL: (500) Before-save formula script failed. String is not closed. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Exceptions/SyntaxError.php(48)
+[2024-11-19 16:24:24] CRITICAL: (500) Before-save formula script failed. String is not closed. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Exceptions/SyntaxError.php(48)
+[2024-11-19 16:28:56] CRITICAL: (500) Before-save formula script failed. Function log\error; Bad argument type on position 1, must be string. :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Formula/Processor.php(185)

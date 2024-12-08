@@ -1,0 +1,3 @@
+{
+    "beforeSaveCustomScript": "parent.hocphidanap = entity\\sumRelated('feePayments', 'money');"
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "assignedUser",
+        "align": "left"
+    },
+    {
+        "name": "idcard"
+    },
+    {
+        "name": "numbercard"
+    },
+    {
+        "name": "hangthi"
+    },
+    {
+        "name": "base"
+    },
+    {
+        "name": "sahinh"
+    },
+    {
+        "name": "duongtruong"
+    },
+    {
+        "name": "xechip"
+    },
+    {
+        "name": "hour"
+    },
+    {
+        "name": "km"
+    },
+    {
+        "name": "tonghocphi"
+    },
+    {
+        "name": "hocphidanap",
+        "align": "left"
+    },
+    {
+        "name": "trangthai"
+    },
+    {
+        "name": "createdAt"
+    }
+]

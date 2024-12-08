@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "cNationalid": "CMT/CCCD",
+        "cAddress": "Địa chỉ",
+        "cDrivingCourse": "Driving Course",
+        "cDrivingCourses": "Driving Courses"
+    },
+    "layouts": {
+        "listForMyEntityType": "List (for MyEntityType)",
+        "listForMyEntityTypeTeacher": "List 2"
+    },
+    "links": {
+        "cDrivingCourse": "Driving Course",
+        "cDrivingCourses": "Driving Courses"
+    },
+    "presetFilters": {
+        "teacher": "Teacher",
+        "student": "Student"
+    }
+}

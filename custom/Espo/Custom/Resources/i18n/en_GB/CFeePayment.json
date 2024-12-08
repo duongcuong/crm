@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "money": "Số tiền",
+        "moneyCurrency": "Số tiền (Currency)",
+        "moneyConverted": "Số tiền (Converted)",
+        "ngaynap": "Ngày nạp",
+        "address": "Tiền đã về công ty?",
+        "assignedUser": "Người thu",
+        "drivingCourse": "Khoá học",
+        "customLabel": "Học viên + Hạng thi"
+    },
+    "links": {
+        "drivingCourse": "Khoá học"
+    },
+    "labels": {
+        "Create CFeePayment": "Create Quản lý học phí"
+    }
+}

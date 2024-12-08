@@ -1,0 +1,29 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "ngaynap"
+                },
+                {
+                    "name": "money"
+                }
+            ],
+            [
+                {
+                    "name": "drivingCourse"
+                },
+                {
+                    "name": "address"
+                }
+            ],
+            [
+                {
+                    "name": "description"
+                }
+            ]
+        ],
+        "style": "default",
+        "label": ""
+    }
+]

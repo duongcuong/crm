@@ -1,0 +1,9 @@
+[2024-12-02 03:25:34] WARNING: E_WARNING: file_put_contents(data/cache/application/slim-routes.php): Failed to open stream: No such file or directory
+[2024-12-02 03:25:34] WARNING: E_WARNING: file_put_contents(data/cache/application/slim-routes.php): Failed to open stream: No such file or directory
+[2024-12-02 15:40:14] WARNING: (400) No primary filter 'roleTeacher' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:41:30] WARNING: (400) No primary filter 'roleTeacher' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:49:17] WARNING: (400) No primary filter 'planned' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:54:34] WARNING: (400) No primary filter 'planned' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:54:35] WARNING: (400) No primary filter 'planned' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:55:14] WARNING: (400) No primary filter 'teacherRole' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)
+[2024-12-02 15:55:16] WARNING: (400) No primary filter 'teacherRole' for 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Select/Primary/Applier.php(70)

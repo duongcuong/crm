@@ -1,0 +1,35 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "ngaynap"
+                },
+                {
+                    "name": "money"
+                }
+            ],
+            [
+                {
+                    "name": "drivingCourse"
+                },
+                {
+                    "name": "address"
+                }
+            ],
+            [
+                {
+                    "name": "description"
+                },
+                false
+            ]
+        ],
+        "dynamicLogicVisible": null,
+        "style": "default",
+        "dynamicLogicStyled": null,
+        "tabBreak": false,
+        "hidden": false,
+        "noteText": null,
+        "customLabel": "Thông tin"
+    }
+]

@@ -1,0 +1,75 @@
+{
+    "fields": {
+        "idcard": "ID thẻ",
+        "numbercard": "Số thẻ",
+        "base": "Cơ bản",
+        "sahinh": "Sa hình",
+        "duongtruong": "Đường trường",
+        "xechip": "Xe chíp",
+        "hour": "Giờ",
+        "km": "Km",
+        "feePayments": "Lịch sử nạp",
+        "ngaybatdau": "Ngày bắt đầu học",
+        "ngayhoanthanh": "Ngày hoàn thành",
+        "trangthai": "Trạng thái",
+        "hangthi": "Hạng xe",
+        "tonghocphi": "Tổng học phí phải nạp",
+        "tonghocphiCurrency": "Tổng học phí phải nạp (Currency)",
+        "tonghocphiConverted": "Tổng học phí phải nạp (Converted)",
+        "hocphidanap": "Học phí đã nạp",
+        "hocphidanapCurrency": "Hocphidanap (Currency)",
+        "hocphidanapConverted": "Hocphidanap (Converted)",
+        "user": "Giáo viên hướng dẫn",
+        "user1": "User1"
+    },
+    "links": {
+        "feePayments": "Lịch sử nạp",
+        "user": "Giáo viên hướng dẫn",
+        "user1": "User1"
+    },
+    "labels": {
+        "Create CDrivingCourse": "Create Quản lý học sinh"
+    },
+    "options": {
+        "base": {
+            "chuahoc": "Chưa học",
+            "danghoc": "Đang học",
+            "dahoc": "Đã học"
+        },
+        "sahinh": {
+            "chuahoc": "Chưa học",
+            "danghoc": "Đang học",
+            "dahoc": "Đã học"
+        },
+        "duongtruong": {
+            "chuahoc": "Chưa học",
+            "danghoc": "Đang học",
+            "dahoc": "Đã học"
+        },
+        "xechip": {
+            "chuahoc": "Chưa học",
+            "danghoc": "Đang học",
+            "dahoc": "Đã học"
+        },
+        "trangthai": {
+            "danghoc": "Đang học",
+            "chothi": "Chờ thi",
+            "dat": "Đã hoàn thành(Đạt)"
+        },
+        "hangthi": {
+            "A1": "A1",
+            "A2": "A2",
+            "A3": "A3",
+            "B1": "B1",
+            "B11": "B11",
+            "B2": "B2",
+            "C": "C",
+            "D": "D",
+            "E": "E",
+            "F": "F",
+            "FB2": "FB2",
+            "FC": "FC",
+            "FE": "FE"
+        }
+    }
+}

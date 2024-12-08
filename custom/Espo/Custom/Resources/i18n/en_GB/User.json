@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "cNationalid": "CMT/CCCD",
+        "cAddress": "Địa chỉ",
+        "cDrivingCourse": "Driving Course",
+        "cDrivingCourses": "Driving Courses"
+    },
+    "links": {
+        "cDrivingCourse": "Driving Course",
+        "cDrivingCourses": "Driving Courses"
+    }
+}

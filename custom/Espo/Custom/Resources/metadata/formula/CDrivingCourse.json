@@ -1,0 +1,3 @@
+{
+    "beforeSaveCustomScript": "name = string\\concatenate(assignedUser.name, ' - ', string\\concatenate(hangthi));\nhocphidanap = entity\\sumRelated('feePayments', 'money');\n\n"
+}

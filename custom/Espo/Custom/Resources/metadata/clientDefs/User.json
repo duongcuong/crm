@@ -1,0 +1,16 @@
+{
+    "filterList": [
+        {
+            "name": "teacher"
+        },
+        {
+            "name": "student"
+        }
+    ],
+    "relationshipPanels": {
+        "drivingCourses": {
+            "layout": null,
+            "selectPrimaryFilterName": null
+        }
+    }
+}

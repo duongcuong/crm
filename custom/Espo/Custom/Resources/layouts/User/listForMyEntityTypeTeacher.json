@@ -1,0 +1,15 @@
+[
+    {
+        "name": "name",
+        "link": true
+    },
+    {
+        "name": "contact"
+    },
+    {
+        "name": "createdBy"
+    },
+    {
+        "name": "auth2FA"
+    }
+]

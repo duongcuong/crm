@@ -1,0 +1,6 @@
+{
+    "primaryFilterClassNameMap": {
+        "teacher":  "Espo\\Custom\\Classes\\Select\\UserObj\\PrimaryFilters\\Teacher",
+        "student":  "Espo\\Custom\\Classes\\Select\\UserObj\\PrimaryFilters\\Student"
+    }
+}

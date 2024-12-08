@@ -1,0 +1,9 @@
+{
+    "scopeNames": {
+        "CDrivingCourse": "Quản lý học sinh",
+        "CFeePayment": "Quản lý học phí"
+    },
+    "scopeNamesPlural": {
+        "CDrivingCourse": "Quản lý học sinh"
+    }
+}

@@ -1,0 +1,53 @@
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/acl/671fa89eeaf93e223.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/aclMap/671fa89eeaf93e223.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/addressCountryData.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/autoload.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapAcl.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapControllers.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapEntities.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapEntryPoints.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapRepositories.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapSelectManagers.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/classmapServices.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/entityAcl.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/languages/en_GB.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/languages/en_US.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/metadata.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/modules.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/objMetadata.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/ormMetadata.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/routes.php): Permission denied
+[2024-12-01 14:21:24] WARNING: E_WARNING: unlink(data/cache/application/slim-routes.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/acl/671fa89eeaf93e223.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/aclMap/671fa89eeaf93e223.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/addressCountryData.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/autoload.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapAcl.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapControllers.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapEntities.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapEntryPoints.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapRepositories.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapSelectManagers.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/classmapServices.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/entityAcl.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/languages/en_GB.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/languages/en_US.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/metadata.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/modules.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/objMetadata.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/ormMetadata.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/routes.php): Permission denied
+[2024-12-01 14:21:40] WARNING: E_WARNING: unlink(data/cache/application/slim-routes.php): Permission denied
+[2024-12-01 17:27:20] WARNING: (404) Class not found for controller 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Api/ControllerActionProcessor.php(193)
+[2024-12-01 17:27:24] WARNING: (404) Class not found for controller 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Api/ControllerActionProcessor.php(193)
+[2024-12-01 17:27:37] WARNING: (404) Class not found for controller 'User'. :: GET /User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Api/ControllerActionProcessor.php(193)
+[2024-12-01 17:38:21] ERROR: (0) JSON syntax error in 'custom/Espo/Custom/Resources/metadata/app/clientRoutes.json'. :: POST /Admin/rebuild :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php(240)
+[2024-12-01 17:38:21] ERROR: (0) Uncaught Exception JsonException: "JSON syntax error in 'custom/Espo/Custom/Resources/metadata/app/clientRoutes.json'." at /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php line 240 :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php(240)
+[2024-12-01 17:38:22] ERROR: (0) Uncaught Exception JsonException: "JSON syntax error in 'custom/Espo/Custom/Resources/metadata/app/clientRoutes.json'." at /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php line 240 :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php(240)
+[2024-12-01 17:38:23] ERROR: (0) Uncaught Exception JsonException: "JSON syntax error in 'custom/Espo/Custom/Resources/metadata/app/clientRoutes.json'." at /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php line 240 :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Utils/File/Unifier.php(240)
+[2024-12-01 19:09:52] WARNING: E_WARNING: mkdir(): File exists
+[2024-12-01 19:44:11] WARNING: (400) Field validation failure; entityType: User, field: cHangtaphuan, type: array. :: PUT /User/67384ffd5febe04b1
+[2024-12-01 19:44:23] WARNING: (400) Field validation failure; entityType: User, field: cHangtaphuan, type: array. :: PUT /User/67384ffd5febe04b1
+[2024-12-01 19:47:55] WARNING: (404) Controller 'Api' does not exist. :: GET /api/v1/User :: /Applications/XAMPP/xamppfiles/htdocs/EspoCRM/application/Espo/Core/Api/ControllerActionProcessor.php(189)
+[2024-12-01 20:04:36] WARNING: (400) Field validation failure; entityType: User, field: cHangtaphuan, type: array. :: PUT /User/671fa89eeaf93e223
+[2024-12-01 20:23:34] WARNING: (400) Field validation failure; entityType: User, field: cHangtaphuan, type: array. :: PUT /User/67384ffd5febe04b1

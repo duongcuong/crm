@@ -1,0 +1,48 @@
+{
+    "fields": {
+        "cNationalid": {
+            "type": "varchar",
+            "maxLength": 100,
+            "options": [],
+            "isCustom": true
+        },
+        "cAddress": {
+            "type": "text",
+            "rowsMin": 2,
+            "cutHeight": 200,
+            "isCustom": true
+        },
+        "cDrivingCourse": {
+            "type": "link"
+        },
+        "cDrivingCourses": {
+            "type": "linkMultiple",
+            "layoutDetailDisabled": true,
+            "layoutMassUpdateDisabled": true,
+            "layoutListDisabled": true,
+            "noLoad": true,
+            "importDisabled": true,
+            "exportDisabled": true,
+            "customizationDisabled": true,
+            "isCustom": true
+        }
+    },
+    "links": {
+        "tasks": {
+            "audited": false
+        },
+        "cDrivingCourse": {
+            "type": "belongsTo",
+            "foreign": "user",
+            "entity": "CDrivingCourse",
+            "isCustom": true
+        },
+        "cDrivingCourses": {
+            "type": "hasMany",
+            "foreign": "user1",
+            "entity": "CDrivingCourse",
+            "audited": false,
+            "isCustom": true
+        }
+    }
+}

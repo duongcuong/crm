@@ -1,0 +1,12 @@
+{
+    "scopeNames": {
+        "CDrivingCourse": "Quản lý học sinh",
+        "CFeePayment": "Quản lý học phí",
+        "CQuanLyGiaoVien": "Quản lý Giáo Viên"
+    },
+    "scopeNamesPlural": {
+        "CDrivingCourse": "Quản lý học sinh",
+        "CFeePayment": "Lịch sử nạp học phí",
+        "CQuanLyGiaoVien": "Quản lý Giáo Viên"
+    }
+}
