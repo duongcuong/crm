@@ -314,7 +314,7 @@ return [
   'authIpAddressCheckExcludedUsersNames' => (object) [],
   'cacheTimestamp' => 1733340415,
   'microtime' => 1733340415.0144970417022705078125,
-  'siteUrl' => 'http://localhost/espocrm',
+  'siteUrl' => 'http://localhost/crm',
   'fullTextSearchMinLength' => 4,
   'appTimestamp' => 1730128022,
   'userThemesDisabled' => false,
